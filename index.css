@@ -1,0 +1,85 @@
+
+body{
+    text-align: center;
+    background-image: url("https://img.rawpixel.com/private/static/images/website/2022-05/rm422-076-x.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e877fedea1136b8c616786d383ed70c3");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    font-size: 3rem;
+    color: #6961c0;
+    text-shadow: 3px 0 #DA0463;
+}
+.music{
+    outline: none;
+    border: 10px solid #4b5d8f;
+    font-size: 5rem;
+    line-height: 1;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #a8d9a5;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+}
+.y{
+background-image: url(w.jpg);    
+}
+.u{
+background-image: url(a.jpg);
+}
+.i{
+background-image: url(tom3.png);
+}
+.h{
+background-image: url(tom4.png);
+}
+.j{
+background-image: url(pic.jpg);
+}
+.k{
+background-image: url(download.jfif);
+}
+.l{
+background-image: url(j.jfif);
+}
+.s{
+    background-image: url(sa.jfif);    
+}
+.r{
+background-image: url(re.jfif);
+}
+.g{
+background-image: url(ga.jfif);
+}
+.m{
+background-image: url(ma.jfif);
+}
+.p{
+background-image: url(pa.jfif);
+}
+.d{
+background-image: url(dha.jpg);
+}
+.n{
+background-image: url(ni.jpg);
+}
+footer{
+    font-family: sans-serif;
+    margin-top: 25px;
+}
+.set{
+    margin: 0;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.6;
+}
+.red{
+    color: red;
+}
